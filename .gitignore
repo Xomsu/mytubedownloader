@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+dist-electron/
+out/
+release/
+*.log
+
+# Electron/OS
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env
+.env
+.env.*
